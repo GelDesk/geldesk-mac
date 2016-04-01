@@ -1,0 +1,4 @@
+
+# Simple Swift Dependency container.
+github "AliSoftware/Dip" ~> 4.2.0
+

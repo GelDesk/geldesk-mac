@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:GelDesk/GelDesk.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GelDeskCocoa/GelDeskCocoa.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GelDeskUI/GelDeskUI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GelDeskMac/GelDeskMac.xcodeproj">
+   </FileRef>
+</Workspace>
